@@ -1,3 +1,4 @@
 x=10
 y=20
-print(x+y)
+z=12
+print(x + y + z)
