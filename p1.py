@@ -4,3 +4,4 @@ z=12
 print(x + y + z)
 print(x * y)
 print(x / y)
+print(x ** 2)
